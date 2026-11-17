@@ -9,7 +9,7 @@
     "@oxlint/plugins": "1.90.0",
     "@types/minimatch": "^3.0.3",
     "@types/node": "24.x",
-    "minimatch": "^3.1.5",
+    "minimatch": "^4.0.0",
     "typescript": "npm:@typescript/typescript6@^6.0.2"
   }
 }
